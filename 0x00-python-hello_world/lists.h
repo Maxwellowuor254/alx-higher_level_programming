@@ -5,8 +5,8 @@
 
 /**
  * struct listint_s - singly linked list
- * @n: integer
- * @next: points to the next node
+ * @n: int
+ * @next: shows the next node
  *
  * Description: singly linked list node structure
  * for Holberton project
